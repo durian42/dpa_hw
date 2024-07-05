@@ -1,6 +1,6 @@
-## Машинное обучение
+## что?
 
-В этом задании нужно применить пакет [TensorFlow](https://www.tensorflow.org) для классификации событий (частиц) в эксперименте LHCb.
-
-В блокноте Jupyter `particles.ipynb` находится пример кода, реализующий многоклассовый классификатор с использованием нейросетей.
-Ваша задача модифицировать блокнот и подобрать параметры нейросети и обучения таким образом, чтобы показатель ROC AUC для случая «электрон против всего остального» был больше 0.97 на тестовой выборке
+She sells sea-shells on the sea-shore.  
+The shells she sells are sea-shells, I’m sure.  
+For if she sells sea-shells on the sea-shore  
+Then I’m sure she sells sea-shore shells.  
